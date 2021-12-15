@@ -1,8 +1,7 @@
-//Bibliotheken für die Kommunikation mit WiFi Geräten
 #include "vhdplus_remote.h"
 
-const char* ssid = "SSID"; //SSID aus dem Router
-const char* password = "Password"; //Passwort für den Zugang zum WLAN
+const char* ssid = "SSID";
+const char* password = "Password";
 
 VHDPlusRemote remote;
 
